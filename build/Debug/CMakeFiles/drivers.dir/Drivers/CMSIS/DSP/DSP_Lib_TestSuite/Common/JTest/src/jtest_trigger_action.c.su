@@ -1,0 +1,7 @@
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/JTest/src/jtest_trigger_action.c:4:6:test_start	4	static
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/JTest/src/jtest_trigger_action.c:9:6:test_end	4	static
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/JTest/src/jtest_trigger_action.c:14:6:group_start	4	static
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/JTest/src/jtest_trigger_action.c:19:6:group_end	4	static
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/JTest/src/jtest_trigger_action.c:24:6:dump_str	4	static
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/JTest/src/jtest_trigger_action.c:29:6:dump_data	4	static
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/JTest/src/jtest_trigger_action.c:34:6:exit_fw	4	static

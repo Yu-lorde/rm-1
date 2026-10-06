@@ -1,0 +1,10 @@
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/platform/GCC/Retarget.c:20:5:SER_PutChar	16	static
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/platform/GCC/Retarget.c:25:5:SER_GetChar	4	static
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/platform/GCC/Retarget.c:35:5:_open	12	static
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/platform/GCC/Retarget.c:40:5:_close	16	static
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/platform/GCC/Retarget.c:45:5:_lseek	24	static
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/platform/GCC/Retarget.c:50:27:_fstat	16	static
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/platform/GCC/Retarget.c:57:5:_isatty	16	static
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/platform/GCC/Retarget.c:62:5:_read	32	static
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/platform/GCC/Retarget.c:77:5:_write	32	static
+D:/ZJU/HELLOWORLD/test-gpio/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/platform/GCC/Retarget.c:85:9:_sbrk	24	static
